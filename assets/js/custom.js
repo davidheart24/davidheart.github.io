@@ -59,8 +59,8 @@ $(function(){
             Backstretch Background Slider
     =========================================================================*/
     $("#welcome").backstretch([
-        "http://placehold.it/1200x768",
-        "http://placehold.it/1200x768",
+        "assets/images/image1.jpg",
+        "assets/images/image1.jpg",
         // "assets/images/your_pic.jpg" 
     ], {duration: 5000, fade: 400});
 
